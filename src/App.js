@@ -6,9 +6,7 @@ import {Map, InfoWindow, Marker, GoogleApiWrapper} from 'google-maps-react';
 
 
 
-class App extends Component {
-
-  
+export class App extends Component {
 
 
   render() {

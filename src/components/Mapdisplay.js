@@ -2,9 +2,12 @@ import React from 'react'
 
 
 function Mapdisplay() {
+
+  const apikey = 'AIzaSyCkgaNcUlENcK_OS82ECuOMvTjEs85GyiY'
+  
   return (
 
-  
+   
     <div >
         <div>
       <input className="location" placeholder="Enter your location" />
